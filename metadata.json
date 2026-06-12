@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Rafi IPTV",
+  "description": "A premium dark-themed IPTV platform featuring HLS playback, dynamic channel filtering, and a sleek, responsive Netflix-inspired user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
